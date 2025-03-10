@@ -14,5 +14,10 @@
 - docker-ce
 - openjdk 11
 
-## 3. 기타
+## 3. 스크립트 실행 순서
+1. install.sh -> S?W install 스크립트
+2. install-nvm.sh -> Node instaLl 스크립트
+3. configure.sh -> 소프트웨어 설정 스크립트
+
+## 4. 특이사항
 - 현재 해당 repo에는 소프트웨어 설치에 필요한 rpm 파일은 제외하였습니다. (용량이 커서 github에 못올림)
